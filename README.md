@@ -19,3 +19,6 @@ This is a simple C language project that implements a basic data compression and
 
 🧠 How Run-Length Encoding Works
 Run-Length Encoding compresses data by replacing sequences of repeated characters with a single character followed by the count of repetitions.
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/977ea9c8-9c01-4326-b397-0b5290ab68a1)
