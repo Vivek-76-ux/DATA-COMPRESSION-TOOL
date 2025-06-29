@@ -3,7 +3,7 @@ NAME: VIVEK KUMAR
 INTERN ID: CT04DF2521
 DOMAIN: C LANGUAGE 
 DURATION: 4 WEEKS
-MENTOR: NEELA SANTOSH
+MENTOR: NEELA SANTHOSH
 
 #DESCRIPTION
 This is a simple C language project that implements a basic data compression and decompression tool using the Run-Length Encoding (RLE) algorithm.
